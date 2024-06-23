@@ -1,4 +1,4 @@
-# network-analysis-with-wireshark
+# network analysis with wireshark
 
 ## Description
 Analyzing pcaps with wireshark
